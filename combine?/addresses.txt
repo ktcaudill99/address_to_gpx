@@ -1,0 +1,973 @@
+	
+Macedonia
+
+    8210 Macedonia Commons Blvd, Unit 10
+    Macedonia, OH 44056
+    (330) 908-0531
+
+    Mansfield
+
+    2275 Walker Lake Rd
+    Mansfield, OH 44903
+    (419) 747-4544
+
+    Springfield
+
+    1705 N Bechtle Ave
+    Springfield, OH 45504
+    (937) 323-6730
+
+    West Chester
+
+    7574 Voice of America Dr
+    West Chester, OH 45069
+    (513) 779-3159
+
+    Toledo (Spring Meadows)
+
+    1450 Spring Meadows Dr
+    Holland, OH 43528
+    (419) 865-3424
+
+    Medina
+
+    5011 Grande Blvd
+    Medina, OH 44256
+    (330) 725-2277
+
+    Massillon
+
+    2026 Lincoln Way East
+    Massillon, OH 44646
+    (330) 832-9254
+
+    Mayfield Heights
+
+    1521 Golden Gate Plaza
+    Mayfield Heights, OH 44124
+    (440) 605-0251
+
+    Bridgewater Falls
+
+    3439 Princeton Rd
+    Hamilton, OH 45011
+    (513) 863-6363
+
+    Mason
+
+    8175 Arbor Square Drive
+    Mason, OH 45040
+    (513) 336-0365
+
+    Milford
+
+    245 Rivers Edge
+    Milford, OH 45150
+    (513) 248-4954
+
+    Zanesville
+
+    3909 Gorsky Dr
+    Zanesville, OH 43701
+    (740) 452-6145
+
+    Centerville
+
+    4333 Feedwire Road
+    Dayton, OH 45440
+    (937) 312-1339
+
+    Dayton Mall
+
+    2028 Miamisburg Centerville Rd
+    Dayton, OH 45459
+    (937) 291-3001
+
+    Cuyahoga Falls
+
+    355 Howe Ave
+    Cuyahoga Falls, OH 44221
+    (330) 922-4114
+
+    Fairlawn
+
+    3750 W Market St
+    Fairlawn, OH 44333
+    (330) 665-4747
+
+    North Canton
+
+    5465 Dressler Rd NW
+    North Canton, OH 44720
+    (330) 305-1549
+
+    North Olmsted
+
+    26063 Great Northern Plaza
+    North Olmsted, OH 44070
+    (440) 777-8900
+
+    Mentor
+
+    9122 Mentor Ave
+    Mentor, OH 44060
+    (440) 974-1100
+
+    Parma
+
+    6870 Ridge Rd
+    Parma, OH 44129
+    (440) 845-9592
+
+    Springdale
+
+    11741 Princeton Pike
+    Springdale, OH 45246
+    (513) 671-6560
+
+    West Cincinnati - CLOSED
+
+    null
+    Cincinnati, OH
+
+    Eastgate
+
+    650 Eastgate South Dr
+    Cincinnati, OH 45245
+    (513) 752-8463
+
+    Colerain
+
+    10164 Colerain Ave
+    Cincinnati, OH 45251
+    (513) 245-9500
+
+    Westpointe Plaza
+
+    5336 Westpointe Plaza Dr
+    Columbus, OH 43228
+    (614) 876-2058
+
+    Dublin
+
+    6010 Sawmill Rd
+    Dublin, OH 43017
+    (614) 791-8200
+
+    Easton
+
+    3713 Easton Market
+    Columbus, OH 43219
+    (614) 418-9389
+
+    Huber Heights
+
+    8281 Old Troy Pike
+    Huber Heights, OH 45424
+    (937) 236-1335
+
+    Beavercreek
+
+    2500 N Fairfield Rd Ste C
+    Dayton, OH 45431
+    (937) 320-0421
+
+    Niles
+
+    5812 Youngstown Warren Rd
+    Niles, OH 44446
+    (330) 544-1499
+
+    Poland
+
+    1101 Doral Dr
+    Poland, OH 44514
+    (330) 629-2479
+
+    Oakley
+
+    3401 Alamo Ave
+    Cincinnati, OH 45209
+    (513) 731-9400
+
+    Columbus/Polaris
+
+    1184 Polaris Pkwy
+    Columbus, OH 43240
+    (614) 785-0194
+
+    Aurora
+
+    7355 Market Place Dr
+    Aurora, OH 44202
+    (330) 995-2890
+
+    Grove City
+
+    1743 Stringtown Rd
+    Grove City, OH 43123
+    (614) 539-8773
+
+    S Lebanon
+
+    476 Corwin Nixon Boulevard
+    South Lebanon, OH 45065
+    (513) 494-3125
+
+    Toledo
+
+    5241 Monroe Street
+    Toledo, OH 43623
+    (419) 318-5441
+
+    Reynoldsburg
+
+    2389 Taylor Park Dr
+    Reynoldsburg, OH 43068
+    (614) 986-3094
+
+    South Euclid
+
+    13923 Cedar Rd
+    South Euclid, OH 44118
+    (216) 258-0643
+
+    Athens
+
+    743 E State St
+    Athens, OH 45701
+    (740) 249-2209
+
+    Plain City
+
+    7400 State Route 161 E
+    Plain City, OH 43064
+    (614) 698-5620
+
+    Wooster Oh
+
+    3749 BURBANK RD
+    WOOSTER, OH 44691
+    (330) 234-5467
+
+    Rossford
+
+    27161 Crossroads Parkway
+    Rossford, OH 43460
+    (419) 873-1715
+
+    Reynoldsburg OH
+
+    8095 East Broad Street
+    Reynoldsburg, OH 43068
+    (614) 490-3027
+
+    Findlay
+
+    2330 Tiffin Ave
+    Findlay, OH 45840
+    (419) 423-6869
+
+    Willoughby
+
+    36395 Euclid Ave
+    Willoughby, OH 44094
+    (440) 918-9780
+
+    Elyria
+
+    263 Midway Blvd
+    Elyria, OH 44035
+    (440) 324-4665
+
+    Groomery Columbus OH
+
+    194 Graceland Blvd
+    COLUMBUS, OH 43214
+    (614) 310-5659
+
+    Groomery Upper Arlington OH
+
+    3086 Kingsdale Center
+    UPPER ARLINGTON, OH 43221
+    (614) 493-3207
+
+    Columbus-CLOSED
+
+    null
+    Columbus, OH
+
+    West Cincinnati - Relo
+
+    6068 Glenway Ave
+    CINCINNATI, OH 45211
+    (513) 322-0272
+
+    Avon
+
+    35822 Detroit Rd
+    AVON, OH 44011
+    (440) 695-2047
+
+    Lancaster
+
+    1731 Memorial Drive N.
+    LANCASTER, OH 43130
+    (740) 205-2156
+
+    Heath OH
+
+    963 Hebron Road
+    Heath, OH 43056
+    (740) 258-6247
+
+
+
+    Willow Grove
+
+    3995 Welsh Road
+    Willow Grove, PA 19090
+    (215) 659-2952
+
+    Monroeville
+
+    3739 William Penn Hwy
+    Monroeville, PA 15146
+    (412) 372-8424
+
+    Glen Mills
+
+    800 Hatton Drive
+    Glen Mills, PA 19342
+    (610) 358-0292
+
+    East Lancaster
+
+    2395 Lincoln Highway
+    Lancaster, PA 17602
+    (717) 393-0820
+
+    Pottstown
+
+    1112 Town Square Rd
+    Pottstown, PA 19465
+    (610) 705-9922
+
+    Carlisle
+
+    248 Westminster Dr
+    Carlisle, PA 17013
+    (717) 218-0107
+
+    Chambersburg
+
+    971 Norland Avenue
+    Chambersburg, PA 17201
+    (717) 267-2708
+
+    Stroudsburg
+
+    139 Radio Dr
+    Stroudsburg, PA 18360
+    (570) 476-1369
+
+    Uniontown
+
+    1616 Matthew Drive
+    Uniontown, PA 15401
+    (724) 437-0565
+
+    Lebanon
+
+    1125 Quentin Rd
+    Lebanon, PA 17042
+    (717) 273-8070
+
+    Temple
+
+    4210 5th Street Highway
+    Temple, PA 19560
+    (610) 939-2620
+
+    Philadelphia
+
+    7422 Bustleton Ave
+    Philadelphia, PA 19152
+    (215) 728-6701
+
+    Quakertown - Richland
+
+    620 North West End Boulevard
+    Quakertown, PA 18951
+    (215) 538-2843
+
+    South Springfield
+
+    641 Baltimore Pike
+    Springfield, PA 19064
+    (610) 328-1510
+
+    Cranberry
+
+    1717 Route 228 Ste D
+    Cranberry TWP, PA 16066
+    (724) 779-9570
+
+    Monaca
+
+    105 Wagner Rd
+    Monaca, PA 15061
+    (724) 770-0505
+
+    Collegeville
+
+    300 Water Loop Drive
+    Collegeville, PA 19426
+    (610) 489-8240
+
+    Hanover
+
+    181 Wilson Ave
+    Hanover, PA 17331
+    (717) 630-0042
+
+    Williamsport
+
+    1742 E 3rd St
+    Williamsport, PA 17701
+    (570) 323-3742
+
+    Lower Nazareth
+
+    3794 Easton Nazareth Highway
+    Easton, PA 18045
+    (610) 365-3087
+
+    East Liberty
+
+    5986 Centre Ave
+    Pittsburgh, PA 15206
+    (412) 626-3284
+
+    Erie
+
+    7451 Peach St Ste B
+    Erie, PA 16509
+    (814) 866-6821
+
+    North Wales
+
+    145 Witchwood Dr
+    North Wales, PA 19454
+    (215) 699-9366
+
+    Plymouth Meeting
+
+    2100 Chemical Rd
+    Plymouth Meeting, PA 19462
+    (610) 567-2933
+
+    Exton
+
+    1010 E Lancaster Ave
+    Downingtown, PA 19335
+    (610) 518-0250
+
+    Fairless Hills
+
+    220 Commerce Blvd
+    Fairless Hills, PA 19030
+    (215) 949-9602
+
+    Broomall
+
+    2940 Springfield Rd
+    Broomall, PA 19008
+    (610) 353-4446
+
+    Warminster
+
+    934 W Street Rd
+    Warminster, PA 18974
+    (215) 773-9016
+
+    North Roosevelt
+
+    4640-60 E Roosevelt Blvd
+    Philadelphia, PA 19124
+    (215) 743-9602
+
+    Dickson City
+
+    650 Commerce Blvd
+    Dickson City, PA 18519
+    (570) 347-1006
+
+    E Harrisburg
+
+    4200 Derry St
+    Harrisburg, PA 17111
+    (717) 558-7642
+
+    Lancaster
+
+    1700 Fruitville Pike Ste K
+    Lancaster, PA 17601
+    (717) 481-9902
+
+    North Fayette Township
+
+    420 Home Dr
+    Pittsburgh, PA 15275
+    (412) 490-0191
+
+    Washington
+
+    327 Washington Rd
+    Washington, PA 15301
+    (724) 223-1227
+
+    York
+
+    351 Loucks Rd
+    York, PA 17404
+    (717) 854-5624
+
+    Wilkes Barre
+
+    427 Arena Hub Plaza
+    Wilkes Barre, PA 18702
+    (570) 825-8423
+
+    NE Philadelphia
+
+    11000 Roosevelt Blvd
+    Philadelphia, PA 19116
+    (215) 698-8320
+
+    South Philadelphia
+
+    2360 W Oregon Ave
+    Philadelphia, PA 19145
+    (215) 462-2080
+
+    Wyomissing
+
+    1183 Berkshire Blvd
+    Wyomissing, PA 19610
+    (610) 396-3660
+
+    Whitehall
+
+    2180 MacArthur Rd
+    Whitehall, PA 18052
+    (610) 437-7197
+
+    Jenkintown
+
+    901 Old York Rd
+    Jenkintown, PA 19046
+    (215) 885-3635
+
+    Ross Township
+
+    6210 Northway Drive
+    PITTSBURGH, PA 15237
+    (412) 536-1991
+
+    King Of Prussia
+
+    131 Town Center Road
+    King Of Prussia, PA 19406
+    (610) 233-1099
+
+    Pleasant Hills
+
+    523 Clairton Blvd
+    Pleasant Hills, PA 15236
+    (412) 543-3083
+
+    Indiana
+
+    475 Ben Franklin Rd S
+    Indiana, PA 15701
+    (724) 427-3148
+
+    Hazleton
+
+    90 Weis Lane
+    West Hazleton, PA 18202
+    (570) 497-8256
+
+    New Castle
+
+    2573 West State St
+    New Castle, PA 16101
+    (724) 698-2307
+
+    Bethlehem
+
+    2102 W. Union Blvd. #22A
+    Bethlehem, PA 18018
+    (484) 403-4296
+
+    Brookhaven Pa
+
+    5023 Edgemont Ave
+    BROOKHAVEN, PA 19015
+    (610) 245-2252
+
+    Selinsgrove
+
+    270 Marketplace Blvd
+    Selinsgrove, PA 17870
+    (570) 743-1490
+
+    Philadelphia PA - CLOSED
+
+    null
+    Philadelphia, PA
+
+    Newtown
+
+    2600 South Eagle Road
+    Newtown, PA 18940
+    (215) 860-1518
+
+    Pittsburgh Mills (Frazer Township)
+
+    1015 Village Center Drive
+    Tarentum, PA 15084
+    (724) 274-3782
+
+    Trexlertown PA
+
+    707 N Krocks Rd Ste 200
+    Allentown, PA 18106
+    (484) 795-7493
+
+    Levittown
+
+    157 Levittown Parkway Ste B
+    Levittown, PA 19055
+    (215) 486-4002
+
+    Mechanicsburg
+
+    5900 Carlisle Pike
+    Mechanicsburg, PA 17050
+    (717) 795-2449
+
+    Greensburg
+
+    6216 Route 30
+    Greensburg, PA 15601
+    (724) 850-7780
+
+    Harrisburg Lower Paxton
+
+    5098 Jonestown Rd
+    HARRISBURG, PA 17109
+    (717) 412-3650
+
+    Ross Township-CLOSED
+
+    null
+    Pittsburgh, PA
+
+    Philadelphia Lincoln Square PA
+
+    1415 Washington Ave
+    PHILADELPHIA, PA 19146
+    (215) 201-3505
+
+    West Mifflin-CLOSED
+
+    null
+    West Mifflin, PA
+
+    North Springfield-CLOSED
+
+    null
+    Springfield, PA
+
+    Devon-CLOSED
+
+    null
+    Devon, PA
+
+
+
+    South Lexington
+
+    310 East Brannon Road
+    Nicholasville, KY 40356
+    (859) 271-8170
+
+    Paducah
+
+    2929 James Sanders Blvd Ste F
+    Paducah, KY 42001
+    (270) 575-9300
+
+    Lexington
+
+    1945 Pavillion Way
+    Lexington, KY 40509
+    (859) 543-1188
+
+    Florence
+
+    1060 Hansel Ave
+    Florence, KY 41042
+    (859) 525-9215
+
+    Owensboro
+
+    5241 Frederica St
+    Owensboro, KY 42301
+    (270) 688-0412
+
+    Richmond
+
+    2175 Lantern Ridge Drive
+    Richmond, KY 40475
+    (859) 623-3124
+
+    Louisville (Six Mile)
+
+    3580 S Hurstbourne Pkwy
+    Louisville, KY 40299
+    (502) 495-0213
+
+    Springhurst
+
+    10308 Westport Rd
+    Louisville, KY 40241
+    (502) 326-0271
+
+    Louisville
+
+    4601 Outer Loop Rd
+    Louisville, KY 40219
+    (502) 969-8206
+
+    Bowling Green
+
+    2300 Gary Farms Blvd Ste 600
+    Bowling Green, KY 42104
+    (270) 495-2259
+
+    Newport
+
+    156 Pavilion Parkway
+    Newport, KY 41071
+    (859) 814-0052
+
+    Ashland
+
+    479 River Hill Drive
+    Ashland, KY 41101
+    (606) 744-2261
+
+    Hopkinsville Ky
+
+    4813 Fort Campbell Blvd
+    HOPKINSVILLE, KY 42240
+    (270) 987-3480
+
+    Elizabethtown
+
+    1820 N Dixie Ave.
+    ELIZABETHTOWN, KY 42701
+    (270) 370-3756
+
+
+
+    North Fort Wayne
+
+    10035 Lima Road
+    Ft Wayne, IN 46818
+    (260) 489-0870
+
+    Schererville
+
+    711 US Hwy 41
+    Schererville, IN 46375
+    (219) 864-0411
+
+    South Bend
+
+    1290 E Ireland Rd, Bldg E
+    South Bend, IN 46614
+    (574) 231-9380
+
+    Noblesville
+
+    17180 Mercantile Blvd
+    Noblesville, IN 46060
+    (317) 770-0301
+
+    NW Indianapolis
+
+    5750 West 86th Street
+    Indianapolis, IN 46278
+    (317) 802-9025
+
+    Terre Haute
+
+    3680 S US Hwy 41
+    Terre Haute, IN 47802
+    (812) 235-9010
+
+    Clarksville
+
+    1020 Veterans Pkwy, Ste 900
+    Clarksville, IN 47129
+    (812) 285-1905
+
+    Avon
+
+    10697 East US Highway 36
+    Avon, IN 46123
+    (317) 209-9461
+
+    Merrillville
+
+    2881 E US Route 30
+    Hobart, IN 46342
+    (219) 942-5598
+
+    Evansville
+
+    215 N Burkhardt Rd
+    Evansville, IN 47715
+    (812) 476-6462
+
+    Bloomington
+
+    240 N Gates Dr
+    Bloomington, IN 47404
+    (812) 334-9780
+
+    Westfield
+
+    14720 US 31 N
+    Carmel, IN 46032
+    (317) 815-9568
+
+    Anderson
+
+    4216 S Scatterfield Rd
+    Anderson, IN 46013
+    (765) 643-5799
+
+    Muncie
+
+    3450 N Morrison Rd
+    Muncie, IN 47304
+    (765) 286-0878
+
+    Mishawaka
+
+    4540 Grape Rd
+    Mishawaka, IN 46545
+    (574) 243-5525
+
+    Lafayette
+
+    3500 IN-38
+    Lafayette, IN 47905
+    (765) 447-3306
+
+    Plainfield
+
+    2677 E Main St
+    Plainfield, IN 46168
+    (317) 837-9138
+
+    Castleton
+
+    5151 E 82nd St
+    Castleton, IN 46250
+    (317) 579-0590
+
+    East Indianapolis
+
+    9749 E Washington St
+    Indianapolis, IN 46229
+    (317) 898-3197
+
+    SE Fort Wayne
+
+    1760 Apple Glen Blvd
+    Fort Wayne, IN 46804
+    (260) 436-7323
+
+    Indianapolis (Greenwood)
+
+    7801 US Hwy 31 S
+    Indianapolis, IN 46227
+    (317) 865-3509
+
+    Elkhart
+
+    205 County Road 6 E Ste Z
+    Elkhart, IN 46514
+    (574) 584-7665
+
+    Michigan City
+
+    122 Dunes Plaza
+    Michigan City, IN 46360
+    (219) 221-4131
+
+    Warsaw
+
+    640 W 300N
+    Warsaw, IN 46582
+    (574) 269-7511
+
+    Marion
+
+    4014 S Western Ave
+    Marion, IN 46953
+    (765) 206-3307
+
+    Greenfield IN
+
+    2211 Barrett Dr
+    Greenfield, IN 46140
+    (317) 468-7614
+
+    East Fort Wayne
+
+    10260 Maysville Road
+    Ft Wayne, IN 46835
+    (260) 486-6151
+
+    Franklin
+
+    1080 N Morton St
+    Franklin, IN 46131-5526
+    (317) 494-4189
+
+    Martinsville
+
+    399 Grand Valley Blvd.
+    Martinsville, IN 46151
+    (765) 341-2213
+
+    Valparaiso
+
+    150 Silhavy Rd
+    VALPARAISO, IN 46383
+    (219) 707-4233
+
+    Kokomo IN
+
+    1367 S. Reed Rd
+    Kokomo, IN 46902
+    (765) 252-2727
+
+
